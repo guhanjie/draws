@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-03-11T06:54:09.482Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="1VPhYoNv7AE3vwQgJTAn" version="12.8.2" type="github">
+<mxfile host="www.draw.io" modified="2020-03-11T07:31:54.430Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36" etag="NtlDwvWVIJqPHy_QIecf" version="12.8.2" type="github">
   <diagram id="0LorpYN9siC3LZAP5Hen" name="第 1 页">
     <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -92,9 +92,9 @@
             <mxPoint x="300" y="234.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NPSApUFOZu9N5_JHAl4--44" value="返回FsId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="NPSApUFOZu9N5_JHAl4--43">
+        <mxCell id="NPSApUFOZu9N5_JHAl4--44" value="返回FsId及状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="NPSApUFOZu9N5_JHAl4--43">
           <mxGeometry x="-0.2214" y="-1" relative="1" as="geometry">
-            <mxPoint x="-84" y="-0.7999999999999998" as="offset" />
+            <mxPoint x="-69" y="-0.7999999999999998" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NPSApUFOZu9N5_JHAl4--68" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="NPSApUFOZu9N5_JHAl4--43">
@@ -103,7 +103,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NPSApUFOZu9N5_JHAl4--48" value="以30天为周期进行自动回收" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="420" y="530" width="80" height="80" as="geometry" />
+          <mxGeometry x="420" y="550" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NPSApUFOZu9N5_JHAl4--72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="NPSApUFOZu9N5_JHAl4--52">
           <mxGeometry relative="1" as="geometry">
@@ -128,9 +128,9 @@
             <mxPoint x="300" y="413" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NPSApUFOZu9N5_JHAl4--54" value="返回FsId" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="NPSApUFOZu9N5_JHAl4--53">
+        <mxCell id="NPSApUFOZu9N5_JHAl4--54" value="返回FsId及状态" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];labelBackgroundColor=#ffffff;" vertex="1" connectable="0" parent="NPSApUFOZu9N5_JHAl4--53">
           <mxGeometry x="0.4091" y="-1" relative="1" as="geometry">
-            <mxPoint x="5" as="offset" />
+            <mxPoint x="20" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NPSApUFOZu9N5_JHAl4--59" value="&lt;span style=&quot;text-align: left&quot;&gt;校验请求幂等性&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
