@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-08-06T09:51:20.378Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="w33SNFng-9NVDm311SKi" version="13.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-06T10:04:25.274Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36" etag="phb8ZiULOY7vjegR-a4c" version="13.6.0" type="github">
   <diagram id="sOFbJcha-RdgP4s662LM" name="Page-1">
     <mxGraphModel dx="1649" dy="811" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GrLTACArmG6HdMlh-X0Y-109" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=14;dashed=1;shadow=0;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="621" y="264" width="851" height="417" as="geometry" />
+        </mxCell>
         <mxCell id="GrLTACArmG6HdMlh-X0Y-38" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-10" y="571" width="330" height="190" as="geometry" />
         </mxCell>
@@ -162,10 +165,10 @@
           <mxGeometry x="674" y="371" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GrLTACArmG6HdMlh-X0Y-74" value="服务订阅" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1192" y="406" width="120" height="60" as="geometry" />
+          <mxGeometry x="1192" y="409" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GrLTACArmG6HdMlh-X0Y-75" value="变更通知" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1192" y="541" width="120" height="60" as="geometry" />
+          <mxGeometry x="1192" y="539" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GrLTACArmG6HdMlh-X0Y-76" value="路由反向访问节点" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1336" y="474" width="120" height="60" as="geometry" />
@@ -209,7 +212,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GrLTACArmG6HdMlh-X0Y-87" value="sls反向访问代理池" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="866" y="420" width="259" height="130" as="geometry" />
+          <mxGeometry x="866" y="439" width="259" height="130" as="geometry" />
         </mxCell>
         <mxCell id="GrLTACArmG6HdMlh-X0Y-88" value="" style="endArrow=none;dashed=1;html=1;fontSize=14;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -242,19 +245,19 @@
           <mxGeometry x="674" y="587.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GrLTACArmG6HdMlh-X0Y-98" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#b85450;strokeWidth=1;fillColor=#f8cecc;gradientColor=#ea6b66;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="896.5" y="499" width="198" height="28" as="geometry" />
+          <mxGeometry x="896.5" y="518" width="198" height="28" as="geometry" />
         </mxCell>
         <mxCell id="GrLTACArmG6HdMlh-X0Y-99" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#82b366;strokeWidth=1;fillColor=#d5e8d4;gradientColor=#97d077;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="896.5" y="499" width="132.5" height="28" as="geometry" />
+          <mxGeometry x="896.5" y="518" width="132.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="GrLTACArmG6HdMlh-X0Y-100" value="core_pool_size" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="910.75" y="524" width="104" height="21" as="geometry" />
+          <mxGeometry x="910.75" y="543" width="104" height="21" as="geometry" />
         </mxCell>
         <mxCell id="GrLTACArmG6HdMlh-X0Y-101" value="max_pool_size" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1022" y="524" width="103" height="21" as="geometry" />
+          <mxGeometry x="1022" y="543" width="103" height="21" as="geometry" />
         </mxCell>
-        <mxCell id="GrLTACArmG6HdMlh-X0Y-103" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;注：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;正常情况下，集群中反向访问的服务节点个数应该维持在&lt;/span&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;core_pool_size(默认64)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;可以根据线上业务压力，最大扩容至&lt;/span&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;max_pool_size&lt;/b&gt;&lt;/div&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;dashed=1;strokeColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="866" y="575" width="261" height="90" as="geometry" />
+        <mxCell id="GrLTACArmG6HdMlh-X0Y-103" value="&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;注：&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;正常情况下，集群中反向访问的服务节点个数应该维持在&lt;/span&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;core_pool_size(默认64)&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left&quot;&gt;&lt;span&gt;可以根据线上业务压力，最大扩容至&lt;/span&gt;&lt;b style=&quot;color: rgb(255 , 51 , 51)&quot;&gt;max_pool_size&lt;/b&gt;&lt;/div&gt;" style="text;html=1;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="833" y="575" width="329" height="90" as="geometry" />
         </mxCell>
         <mxCell id="GrLTACArmG6HdMlh-X0Y-105" value="vpc inner api" style="endArrow=classic;startArrow=classic;html=1;fontSize=14;" edge="1" parent="1">
           <mxGeometry x="0.0333" y="17" width="50" height="50" relative="1" as="geometry">
@@ -262,6 +265,30 @@
             <mxPoint x="861" y="509" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="GrLTACArmG6HdMlh-X0Y-106" value="服务启动加载" style="endArrow=classic;html=1;fontSize=14;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="GrLTACArmG6HdMlh-X0Y-74" target="GrLTACArmG6HdMlh-X0Y-87">
+          <mxGeometry x="-0.3959" y="-11" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1081" y="273" as="sourcePoint" />
+            <mxPoint x="1131" y="223" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrLTACArmG6HdMlh-X0Y-107" value="" style="endArrow=classic;html=1;fontSize=14;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GrLTACArmG6HdMlh-X0Y-87" target="GrLTACArmG6HdMlh-X0Y-75">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1173" y="538" as="sourcePoint" />
+            <mxPoint x="1223" y="488" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrLTACArmG6HdMlh-X0Y-108" value="映射更新通知" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="GrLTACArmG6HdMlh-X0Y-107">
+          <mxGeometry x="-0.0149" y="1" relative="1" as="geometry">
+            <mxPoint x="9.27" y="-19.75" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GrLTACArmG6HdMlh-X0Y-110" value="Region/Cluster" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="651" y="276" width="110" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="GrLTACArmG6HdMlh-X0Y-111" value="ip pool cache" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;dashed=1;sketch=0;strokeColor=#000000;strokeWidth=1;fillColor=none;gradientColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1202" y="491.75" width="100" height="24.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
